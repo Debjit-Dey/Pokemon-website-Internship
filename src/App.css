@@ -61,5 +61,5 @@ h1 {
 .pokemon-card:hover {
   transform: translateY(-5px); 
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-  background-color: greenyellow;
+  background-color: rgb(218, 244, 178);
 }
